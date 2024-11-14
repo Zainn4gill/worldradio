@@ -1,5 +1,5 @@
-const clientId = 'YOUR_SPOTIFY_CLIENT_ID';
-const redirectUri = 'https://yourdomain.netlify.app/callback';
+const clientId = 'e538b3c9a9ac472ba4f604de3c10b641';
+const redirectUri = 'https://worldradio.netlify.app/callback';
 const playlistId = 'YOUR_PLAYLIST_ID';
 let player, accessToken;
 
